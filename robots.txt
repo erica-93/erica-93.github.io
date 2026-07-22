@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Quando il sito sarà online, togli il commento:
+# Sitemap: https://erica-93.github.io/sitemap-index.xml
